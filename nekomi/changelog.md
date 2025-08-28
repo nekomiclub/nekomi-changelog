@@ -2,32 +2,52 @@
 
 [back](../README.md)
 
+- [Patch 2.1.3](#patch-213)
+  - [INFRASTRUCTURE](#infrastructure)
+    - [nekomi-api](#nekomi-api)
+    - [nekomi-nextjs](#nekomi-nextjs)
 - [Patch 2.1.2](#patch-212)
   - [API](#api)
-    - [nekomi-api](#nekomi-api)
-  - [INFRASTRUCTURE](#infrastructure)
     - [nekomi-api](#nekomi-api-1)
-    - [nekomi-nextjs](#nekomi-nextjs)
+  - [INFRASTRUCTURE](#infrastructure-1)
+    - [nekomi-api](#nekomi-api-2)
+    - [nekomi-nextjs](#nekomi-nextjs-1)
 - [Patch 2.1.1](#patch-211)
   - [API](#api-1)
-    - [nekomi-api](#nekomi-api-2)
-  - [INFRASTRUCTURE](#infrastructure-1)
     - [nekomi-api](#nekomi-api-3)
-    - [nekomi-nextjs](#nekomi-nextjs-1)
+  - [INFRASTRUCTURE](#infrastructure-2)
+    - [nekomi-api](#nekomi-api-4)
+    - [nekomi-nextjs](#nekomi-nextjs-2)
 - [Patch 2.1.0](#patch-210)
   - [API](#api-2)
-    - [nekomi-api](#nekomi-api-4)
+    - [nekomi-api](#nekomi-api-5)
     - [nekomi-uploads](#nekomi-uploads)
     - [nekomi-media](#nekomi-media)
-  - [INFRASTRUCTURE](#infrastructure-2)
-    - [nekomi-api](#nekomi-api-5)
-    - [nekomi-nextjs](#nekomi-nextjs-2)
+  - [INFRASTRUCTURE](#infrastructure-3)
+    - [nekomi-api](#nekomi-api-6)
+    - [nekomi-nextjs](#nekomi-nextjs-3)
     - [nekomi-uploads](#nekomi-uploads-1)
     - [nekomi-media](#nekomi-media-1)
     - [nekomi-bot](#nekomi-bot)
     - [nginx](#nginx)
 
 ---------------------------------------------------------------
+
+## Patch 2.1.3
+
+### INFRASTRUCTURE
+#### nekomi-api
+
++ Fixed IMDB API URL
++ Fixed docker model patcher & fetch seasonal paths
++ Improved user lib privacy
+
+#### nekomi-nextjs
+
++ Fixed StyledImage image loading & error handling
++ Reworked footer
++ Reworked user/dubber header
++ Reworked user page, lib, settings
 
 ## Patch 2.1.2
 

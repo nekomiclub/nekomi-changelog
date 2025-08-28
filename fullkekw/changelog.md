@@ -2,23 +2,33 @@
 
 [back](../README.md)
 
-- [Patch 2.1.2](#patch-212)
+- [Patch 2.1.3](#patch-213)
   - [INFRASTRUCTURE](#infrastructure)
-    - [fullkekw-authority](#fullkekw-authority)
     - [fullkekw-userapi](#fullkekw-userapi)
+- [Patch 2.1.2](#patch-212)
+  - [INFRASTRUCTURE](#infrastructure-1)
+    - [fullkekw-authority](#fullkekw-authority)
+    - [fullkekw-userapi](#fullkekw-userapi-1)
 - [Patch 2.1.1](#patch-211)
   - [API](#api)
     - [fullkekw-account-nextjs](#fullkekw-account-nextjs)
-    - [fullkekw-userapi](#fullkekw-userapi-1)
-  - [INFRASTRUCTURE](#infrastructure-1)
-    - [fullkekw-account-nextjs](#fullkekw-account-nextjs-1)
     - [fullkekw-userapi](#fullkekw-userapi-2)
+  - [INFRASTRUCTURE](#infrastructure-2)
+    - [fullkekw-account-nextjs](#fullkekw-account-nextjs-1)
+    - [fullkekw-userapi](#fullkekw-userapi-3)
     - [fk-authority](#fk-authority)
 - [Patch 2.1.0](#patch-210)
-  - [INFRASTRUCTURE](#infrastructure-2)
+  - [INFRASTRUCTURE](#infrastructure-3)
     - [fk-usapi](#fk-usapi)
 
 ---------------------------------------------------------------
+
+## Patch 2.1.3
+
+### INFRASTRUCTURE
+#### fullkekw-userapi
+
+- Added cooldown for update session access
 
 ## Patch 2.1.2
 
