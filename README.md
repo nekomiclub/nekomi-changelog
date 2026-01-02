@@ -48,6 +48,7 @@
 - Migrated from ```react-material-symbols``` to ```material-symbols-rc```
 - Fixed authorization issue, when app fetches user using old session and recieving error, throw isServerOnline = false
 - Changed session cookie name to ```nekomi-auth```
+- Fixed GET ```/user/:query/lib/:libId``` endpoint does not recognize user as account owner
 
 #### nekomi-uploads
 - Reworked into nekomi-upload-service
