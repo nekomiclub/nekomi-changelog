@@ -42,6 +42,7 @@
 ---
 - Reworked from scratch
 - Renamed session cookie name to ```nekomi-auth```
+- Fixed retrieve ashdi url 403 using proxy
 
 #### nekomi-nextjs
 - Migrated from ```next@14``` > ```next@16```, ```react@18``` > ```react@19```. Update ```@fullkekw``` packages to the latest versions
